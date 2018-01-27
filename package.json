@@ -1,0 +1,30 @@
+{
+  "name": "unx",
+  "version": "1.0.0",
+  "description": "LINEBOT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Rita",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "3.0.3",
+    "connect-remote-ip": "^0.2.2",
+    "debug-log": "^1.0.1",
+    "express": "4.16.2",
+    "jade": "^1.11.0",
+    "jquery": "^3.2.1",
+    "linebot": "^1.3.0",
+    "request": "^2.83.0",
+    "socket.io": "^2.0.4",
+    "socket.io-cookie": "0.0.1",
+    "utf-8-validate": "4.0.0",
+    "ws": "3.3.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://git.heroku.com/unxtechnologies.git"
+  }
+}
